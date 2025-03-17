@@ -1,4 +1,4 @@
-baseURL = 'https://giuliagrion.github.io/'
+baseURL = 'https://slrenne.github.io'
 languageCode = 'en-us'
 title = 'Code Documentation'
 theme = "book"
