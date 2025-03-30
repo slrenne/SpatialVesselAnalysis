@@ -3,6 +3,7 @@ date = '2025-03-12T14:57:30+01:00'
 draft = true
 title = 'Spatial Vessel Analysis'
 layout = 'single'
+theme = 'book'
 +++
 
 # Spatial Vessel Analysis 
