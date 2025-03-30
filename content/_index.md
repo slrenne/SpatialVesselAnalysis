@@ -23,8 +23,8 @@ The following pipeline offers a robust, reproducible, and scalable solution for 
 2. **Segment Vessels and Extract Features in Python**:
    - 2.1 Convertion of RGB to HSV format
    - 2.2 Application of Otsu’s thresholding
-   - 2.4 Morphological operations
-   - 2.5 Feature extraction
+   - 2.3 Morphological operations
+   - 2.4 Feature extraction
 3. **Infer drug distribution**
    - 3.1 Generation of synthetic vessel masks
    - 3.2 Definition of a known drug distribution function
