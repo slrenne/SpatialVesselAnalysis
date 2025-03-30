@@ -1,4 +1,4 @@
-baseURL = 'https://slrenne.github.io'
+baseURL = 'https://slrenne.github.io/SpatialVesselAnalysis'
 languageCode = 'en-us'
 title = 'Code Documentation'
 theme = 'book'
